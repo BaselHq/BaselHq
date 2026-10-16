@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on completing my statistics
-- 🌱 I’m currently learning Principles of Data Science, Finance, Coding in R, Mathematical Statistics
+- 🔭 I’m currently working on completing my statistics degree
+- 🌱 I’m currently learning Principles of Data Science, Coding in R, Mathematical Statistics
 - 👯 I’m looking to collaborate on coding projects
 - 🤔 I’m looking for help in learning code
 - 💬 Ask me about the Sacramento Kings
